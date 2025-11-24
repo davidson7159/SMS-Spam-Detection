@@ -14,6 +14,8 @@ This project includes:
 ---
 
 ## 🚀 Project Structure
+
+```text
 sms-spam-nlp/
 │
 ├── data/
@@ -36,6 +38,8 @@ sms-spam-nlp/
 └── README.md
 
 ---
+
+```
 
 ## 📊 Dataset
 
